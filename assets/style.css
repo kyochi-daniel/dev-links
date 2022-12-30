@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('images/bg-mobile-dark.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+ul li {
+    list-style: none;
+}
+
+main {
+    margin: 3.5rem auto;
+    text-align: center;
+    max-width: 36.75rem;
+}
+
+.profile img {
+    width: 6.938rem;
+    height: 6.938rem;
+}
