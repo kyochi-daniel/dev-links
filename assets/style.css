@@ -97,6 +97,10 @@ main {
     animation: slide-in .3s forwards;
 }
 
+.switch button:hover {
+    outline: 8px solid var(--bg-icons-hover);
+}
+
 .switch span {
     display: block;
     border-radius: .75rem;
