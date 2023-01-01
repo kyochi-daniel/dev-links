@@ -28,6 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é uma página programada para anexar os links que deseja compartilhar para o público.
 
+[🔗 Clique aqui para acessar](https://dev-links-lovat.vercel.app/)
+
 ---
 
 <p align="center">Feito com ♥ by Daniel Kyochi 🌍</p>
