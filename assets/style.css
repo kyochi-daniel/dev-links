@@ -38,6 +38,7 @@ body {
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
+    height: 100vh;
     font-family: var(--font-principal);
     color: var(--font-color-principal);
 }
@@ -88,11 +89,12 @@ main {
     left: 0;
     z-index: 1;
     transform: translateY(-50%);
+
+    animation: slide-back .3s forwards;
 }
 
 .light .switch button {
-    right: 0;
-    left: initial;
+    animation: slide-in .3s forwards;
 }
 
 .switch span {
@@ -165,6 +167,24 @@ ion-icon {
 
 .footer span {
     text-decoration: underline;
+}
+
+@keyframes slide-in {
+    0% {
+        left: 0%;
+    }
+    100% {
+        left: 50%;
+    }
+}
+
+@keyframes slide-back {
+    0% {
+        left: 50%;
+    }
+    100% {
+        left: 0%;
+    }
 }
 
 @media (min-width: 768px) {
