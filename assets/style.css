@@ -90,7 +90,7 @@ main {
     z-index: 1;
     transform: translateY(-50%);
 
-    animation: slide-back .3s forwards;
+    animation: slide-back .3s;
 }
 
 .light .switch button {
