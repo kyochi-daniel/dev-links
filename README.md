@@ -22,8 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-<br>
-
 ## 💻 Projeto
 
 O DevLinks é uma página programada para anexar os links que deseja compartilhar para o público.
