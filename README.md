@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é uma página programada para anexar os links que deseja compartilhar para o público.
+
 [🔗 Clique aqui para acessar](https://dev-links-lovat.vercel.app/)
 
 ---
