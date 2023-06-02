@@ -63,6 +63,7 @@ main {
     width: 6.938rem;
     height: 6.938rem;
     margin-bottom: .563rem;
+    border-radius: 50%;
 }
 
 .profile p {
@@ -140,7 +141,7 @@ main {
     border: 1px solid var(--stroke-color-hover);
 }
 
-ion-icon {
+i {
     font-size: 1.5rem;
     color: var(--color-icons);
 }
